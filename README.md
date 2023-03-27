@@ -21,13 +21,13 @@
 <p align="center">
       See Screenshots 
 </p>
-![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/start.jpg)
+![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/start.png)
 
 </p>
-![20200808_160767](https://github.com/cyberdemon404/DEMO/blob/main/crack1.jpg)
+![20200808_160767](https://github.com/cyberdemon404/DEMO/blob/main/crack1.png)
 
 </p>
-![20200808_160777](https://github.com/cyberdemon404/DEMO/blob/main/crack2.jpg)
+![20200808_160777](https://github.com/cyberdemon404/DEMO/blob/main/crack2.png)
 
 ## <b>INSTALLATION</b>
 
