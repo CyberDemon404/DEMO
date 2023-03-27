@@ -21,13 +21,13 @@
 <p align="center">
       See Screenshots 
 </p>
-![20200808_160757](https://github.com/cyberdemon404/Demo/blob/main/start.jpg)
+![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/start.jpg)
 
 </p>
-![20200808_160757](https://github.com/cyberdemon404/Demo/blob/main/crack1.jpg)
+![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/crack1.jpg)
 
 </p>
-![20200808_160757](https://github.com/cyberdemon404/Demo/blob/main/crack2.jpg)
+![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/crack2.jpg)
 
 ## <b>INSTALLATION</b>
 
@@ -48,8 +48,8 @@ rm -rf DEMO
  pip install lolcat
  pip install BeautifulSoup
  pkg install git
- git clone https://github.com/cyberdemon404/Demo.git
- cd Demo
+ git clone https://github.com/cyberdemon404/DEMO.git
+ cd DEMO
  python run.py
 
 ```
