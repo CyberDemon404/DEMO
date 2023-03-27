@@ -24,10 +24,10 @@
 ![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/start.jpg)
 
 </p>
-![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/crack1.jpg)
+![20200808_160767](https://github.com/cyberdemon404/DEMO/blob/main/crack1.jpg)
 
 </p>
-![20200808_160757](https://github.com/cyberdemon404/DEMO/blob/main/crack2.jpg)
+![20200808_160777](https://github.com/cyberdemon404/DEMO/blob/main/crack2.jpg)
 
 ## <b>INSTALLATION</b>
 
