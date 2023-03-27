@@ -1,4 +1,4 @@
-# DE##### Developer 
+##### Developer 
 [CYBERDEMON404]()
 #####
 
@@ -41,6 +41,9 @@ rm -rf DEMO
  pkg install python2
  pkg install wget
  pip install requests
+ pip install futures
+ pip install bs4
+ pip install rich
  pip install mechanize
  pip install lolcat
  pip install BeautifulSoup
