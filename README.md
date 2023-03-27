@@ -2,7 +2,7 @@
 [CYBERDEMON404]()
 #####
 
-[![Facebokm Badge](https://img.shields.io/-aang.qwerty69-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/100088542397815/posts/pfbid02tCKxXPZzvcXvUa28Q4NEMTxoN7Woesefq7UxENu21iLCR6nNHhLekemELSKUTfSUl/?app=fbl/)](https://www.facebook.com/100088542397815/posts/pfbid02tCKxXPZzvcXvUa28Q4NEMTxoN7Woesefq7UxENu21iLCR6nNHhLekemELSKUTfSUl/?app=fbl)  [![WhatsApp Badge](https://img.shields.io/badge/-2348178406817-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/2348178406817/)](https://wa.me/2348178406817/). <br>[![Telegram](https://img.shields.io/badge/Telegram-cyberdemon404-dimgray?style=flat-square&logo=github)](https://github.com/cyberdemon404)<br>
+[![Facebook Badge](https://img.shields.io/-aang.qwerty69-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/100088542397815/posts/pfbid02tCKxXPZzvcXvUa28Q4NEMTxoN7Woesefq7UxENu21iLCR6nNHhLekemELSKUTfSUl/?app=fbl/)](https://www.facebook.com/100088542397815/posts/pfbid02tCKxXPZzvcXvUa28Q4NEMTxoN7Woesefq7UxENu21iLCR6nNHhLekemELSKUTfSUl/?app=fbl)  [![WhatsApp Badge](https://img.shields.io/badge/-2348178406817-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/2348178406817/)](https://wa.me/2348178406817/). <br>[![Telegram](https://img.shields.io/badge/Telegram-cyberdemon404-dimgray?style=flat-square&logo=github)](https://github.com/cyberdemon404)<br>
 
 
 <h1 align="center"> |CYBERDEMON404|</h1>
